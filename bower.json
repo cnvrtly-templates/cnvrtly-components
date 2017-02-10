@@ -1,0 +1,17 @@
+{
+  "name": "cnvrtly-components",
+  "homepage": "https://github.com/cnvrtly-templates/cnvrtly-components",
+  "authors": [
+    "matjazonline <matjazonline@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
